@@ -5,7 +5,7 @@ img {
 
 header {
   background-color: #000000;
-  padding: 15px;
+  padding: 1%;
   color:#FFFFFF;
 }
 
@@ -43,12 +43,14 @@ header p {
     font-size: 20px;
     font-display: bold;
 }
+
 button {
-  padding: 10px 20px;
-  background-color: rgb(43, 43, 43);
-  color: white;
-  font-size: 12px;
-  border-radius: 8px;
+    padding: 10px 20px;
+    background-color: rgb(43, 43, 43);
+    color: white;
+    font-size: 12px;
+    border-radius: 8px;
+    box-shadow: 3px 5px #c5c4c4;
 }
 
 footer {
